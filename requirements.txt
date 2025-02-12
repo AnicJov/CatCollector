@@ -1,0 +1,4 @@
+twitchio
+audioop-lts
+discord.py
+python-dotenv
