@@ -64,7 +64,7 @@ Prerequisites: [Git](https://git-scm.com/downloads/win), [Python](https://www.py
     ```
     ```ps1
     venv/bin/python discord_bot.py
-    ```   ```
+    ```
 
 ### Environment setup
 
